@@ -1,2 +1,5 @@
-# minecraft_server
-# minecraft_server
+# MineCraft Server Free Totally
+  Hello Friends, I know you want to play MineCraft With your friends but .. You don't have money to host a MineCraft Server locally or even on a cloud machine because those are expensive. No worries i have the perfect solution for you guys. With this repository you can have your own Minecraft Server for free to to play with your friends upto 16 friends which is actually a lot.
+  Check out the wiki page for installation and further steps.
+  
+
