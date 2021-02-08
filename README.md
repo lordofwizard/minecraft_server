@@ -6,3 +6,11 @@
 ```
 https://github.com/lordofwizard/minecraft_server/wiki/Installation
 ```
+Also in future we will make a video tutorial on server setup on the following youtube channel
+```https://www.youtube.com/channel/UCrngq2SZL98AtiHBQxs3Y5g```
+
+## Future Plans
+* Once Authentication for ngrok
+* Provide an automated sustem for minecraft server downloading
+* better workflow than the screen
+* Also getting or greping the url for server from ngrok automatically.
