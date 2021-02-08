@@ -3,3 +3,6 @@
   Check out the wiki page for installation and further steps.
   
 
+```
+https://github.com/lordofwizard/minecraft_server/wiki/Installation
+```
