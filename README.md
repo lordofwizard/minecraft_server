@@ -10,7 +10,8 @@ Also in future we will make a video tutorial on server setup on the following yo
 ```https://www.youtube.com/channel/UCrngq2SZL98AtiHBQxs3Y5g```
 
 ## Future Plans
-* Once Authentication for ngrok
-* Provide an automated sustem for minecraft server downloading
+* Once Authentication for ngrok(done)
+* Provide an automated sustem for minecraft server downloading(done)
 * better workflow than the screen
-* Also getting or greping the url for server from ngrok automatically.
+* Also getting or greping the url for server from ngrok automatically.(done)
+* BTW we are not using ngrok anymore.
